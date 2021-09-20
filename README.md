@@ -1,8 +1,8 @@
-Test analysis: Let me begin
+# Test analysis: Let me begin
 
-Author: Sofie Zacho
+**Author**: Sofie Zacho
 
-Developed by my mind and code club to create research 
+Developed by my mind and *Code Club to* create research
 
-Dependencies
-mothur v.1.45.3
+### Dependencies:  
+* *mothur v.1.45.3*
