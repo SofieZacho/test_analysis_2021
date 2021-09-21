@@ -6,5 +6,7 @@
 archive=$1
 
 # download from rrnDB.
-wget -P data/raw -nc https://rrndb.umms.med.umich.edu/static/download/"archive".zip
-unzip -n -d data/raw/ data/raw/"archive".zip
+wget -P data/raw -nc https://rrndb.umms.med.umich.edu/static/download/"$archive".zip
+unzip -n -d data/raw/ data/raw/"$archive".zip
+
+# to run it in command line type ./path_to_file followed by potential inputs
